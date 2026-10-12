@@ -1,0 +1,21 @@
+ticket_id,created_at,customer_id,subject,description,category,intent,sentiment,priority,status,resolution_hours,escalated
+TCK-1001,2026-09-01T09:15:00Z,CUS-101,Charged twice for subscription,I was charged twice for my monthly subscription and need one charge refunded.,Billing,Duplicate charge,Negative,High,Resolved,5.2,True
+TCK-1002,2026-09-01T10:40:00Z,CUS-102,Cannot reset password,The password reset link keeps saying it has expired even when I request a new one.,Account Access,Password reset failure,Negative,Medium,Resolved,2.1,False
+TCK-1003,2026-09-02T08:05:00Z,CUS-103,Order delivery delayed,My order was supposed to arrive yesterday. Tracking has not changed in three days.,Shipping,Delayed delivery,Negative,Medium,In Progress,,False
+TCK-1004,2026-09-02T12:25:00Z,CUS-104,App crashes on launch,"The mobile app closes immediately after I open it, since the latest update.",Technical Issue,App crash,Negative,High,Open,,True
+TCK-1005,2026-09-03T14:10:00Z,CUS-105,Update billing address,I moved recently and want to change the address on my invoices.,Billing,Update billing details,Neutral,Low,Resolved,1.0,False
+TCK-1006,2026-09-04T11:30:00Z,CUS-106,Unable to download invoice,The invoice download button does nothing in Chrome on Windows.,Technical Issue,Invoice download failure,Negative,Medium,Resolved,7.4,False
+TCK-1007,2026-09-05T16:50:00Z,CUS-107,Request to cancel plan,Please explain how I can cancel my annual plan before renewal.,Subscription,Cancellation request,Neutral,Medium,Resolved,3.3,False
+TCK-1008,2026-09-06T07:20:00Z,CUS-108,Payment failed but money deducted,"Checkout showed a payment failure, but my bank account was debited.",Billing,Payment reconciliation,Negative,High,Open,,True
+TCK-1009,2026-09-07T13:45:00Z,CUS-109,Feature suggestion,It would be useful to export reports as CSV instead of PDF only.,Product Feedback,Feature request,Positive,Low,Resolved,18.0,False
+TCK-1010,2026-09-08T09:05:00Z,CUS-110,Account locked unexpectedly,I entered the correct password but my account is now locked. I need access for work.,Account Access,Account locked,Negative,High,In Progress,,True
+TCK-1011,2026-09-09T10:10:00Z,CUS-111,Where is my refund?,My refund was approved last week but I still cannot see it in my account.,Billing,Refund status,Negative,Medium,Resolved,30.5,False
+TCK-1012,2026-09-10T15:00:00Z,CUS-112,Notifications not arriving,I have enabled email notifications but I do not receive order updates.,Technical Issue,Notification failure,Neutral,Low,Open,,False
+TCK-1013,2026-09-11T08:35:00Z,CUS-113,Urgent: compromised account,I see logins I do not recognize. Please secure my account immediately.,Security,Suspected account compromise,Negative,Critical,In Progress,,True
+TCK-1014,2026-09-12T17:15:00Z,CUS-114,Change email address,I want to replace the email address associated with my account.,Account Access,Update account email,Neutral,Low,Resolved,2.8,False
+TCK-1015,2026-09-13T12:00:00Z,CUS-115,Duplicate order confirmation,I received two confirmation emails for one order. Can you confirm I was only charged once?,Billing,Charge verification,Concerned,Medium,Open,,False
+TCK-1016,2026-09-14T09:45:00Z,CUS-116,Slow dashboard,The dashboard takes around 20 seconds to load when I open analytics.,Technical Issue,Performance issue,Negative,Medium,Resolved,12.0,False
+TCK-1017,2026-09-15T11:25:00Z,CUS-117,Need tax invoice,Please send me a tax invoice for my latest purchase.,Billing,Invoice request,Neutral,Low,Resolved,4.0,False
+TCK-1018,2026-09-16T14:35:00Z,CUS-118,Cannot access shared workspace,"The invite says accepted, but the workspace still says I do not have permission.",Account Access,Workspace permissions,Negative,High,Open,,False
+TCK-1019,2026-09-17T10:20:00Z,CUS-119,Cancel duplicate subscription,I accidentally signed up twice and need help cancelling one subscription.,Subscription,Duplicate subscription,Negative,Medium,Resolved,6.5,False
+TCK-1020,2026-09-18T16:05:00Z,CUS-120,Checkout page error,The checkout page displays a server error when I click Place Order.,Technical Issue,Checkout failure,Negative,High,In Progress,,True
